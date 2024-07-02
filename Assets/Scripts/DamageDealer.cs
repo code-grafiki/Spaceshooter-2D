@@ -11,7 +11,7 @@ public class DamageDealer : MonoBehaviour
         return damageValue;
     }
 
-    //destroy the enemy as the player collides
+    //destroy the "enemy" as the player collides
     public void Hit()
     {
         Destroy(gameObject);

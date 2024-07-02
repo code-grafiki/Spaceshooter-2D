@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8775742364479892632}
   - component: {fileID: 2185521271296037812}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ship_sidesC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 166ecf6aec919164abd9057e8df827cc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 5250224727978632472}
   - component: {fileID: 5788601210439636434}
   - component: {fileID: -837466442911359520}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -242,3 +242,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e3784c95da6e44459c1d5365d9c654c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 100
