@@ -157,7 +157,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 42b5e19debb773c4e83e60cf3faa1258, type: 2}
   - {fileID: 11400000, guid: d7461fef9c5ebbc46b8898b5e922dc03, type: 2}
   timeBetweenWaves: 1
-  isLooping: 0
+  isLooping: 1
 --- !u!4 &25823861
 Transform:
   m_ObjectHideFlags: 0
@@ -209,7 +209,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -306,11 +306,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3901835198019341273, guid: 64354a464cbad16498d3ceb851d8b496, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.01
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 3901835198019341273, guid: 64354a464cbad16498d3ceb851d8b496, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.26
+      value: -0.81
       objectReference: {fileID: 0}
     - target: {fileID: 3901835198019341273, guid: 64354a464cbad16498d3ceb851d8b496, type: 3}
       propertyPath: m_LocalPosition.z
