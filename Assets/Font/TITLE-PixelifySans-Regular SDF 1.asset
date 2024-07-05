@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-  m_Name: PixelifySans-Regular SDF
+  m_Name: TITLE-PixelifySans-Regular SDF 1
   m_EditorClassIdentifier: 
-  hashCode: 752236599
+  hashCode: 784590379
   material: {fileID: 520718141520109065}
-  materialHashCode: -1254560073
+  materialHashCode: -500931285
   m_Version: 1.1.0
   m_SourceFontFileGUID: 89bd7cff155008b4ba8f45b947ebc81b
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 89bd7cff155008b4ba8f45b947ebc81b, type: 3}
@@ -2670,8 +2670,8 @@ Material:
     - _FaceUVSpeedX: 0
     - _FaceUVSpeedY: 0
     - _GlowInner: 0.05
-    - _GlowOffset: 0
-    - _GlowOuter: 0.05
+    - _GlowOffset: 0.43
+    - _GlowOuter: 0.17
     - _GlowPower: 1
     - _GradientScale: 6
     - _LightAngle: 3.1416
@@ -2709,10 +2709,10 @@ Material:
     m_Colors:
     - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
     - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
-    - _FaceColor: {r: 0, g: 1, b: 0.37080145, a: 1}
-    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _FaceColor: {r: 0, g: 1, b: 0.95886564, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0.53164387, a: 0.5}
     - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
-    - _OutlineColor: {r: 0, g: 0.07321739, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0.07450986, b: 1, a: 1}
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
